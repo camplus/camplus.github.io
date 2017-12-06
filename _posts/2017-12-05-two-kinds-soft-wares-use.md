@@ -7,11 +7,11 @@ tag: [软件]
 
 今天介绍两个软件
 
-<img src="/images/top-head-piature/2017-12-05-two-kinds.jpg" width="722" height="160">
+<img src="/images/top-head-piature/2017-12-05-two-kinds.jpg" width="600" height="160">
 
 1 . 毫秒级桌面搜索工具:Everything 
 
-Windows的搜索功能几乎每天都会被用到，但其搜索速度实在是慢如蜗牛，让人难以忍受。但Everything这个软件搜索速度堪称震撼，基本上在你输入的同时就已经有了搜索结果。<br/>
+Windows的搜索功能几乎每天都会被用到，但其搜索速度实在是慢如蜗牛，让人难以忍受。但Everything这个软件搜索速度堪称震撼，基本上在你输入的同时就已经有了搜索结果。<br/>[动图感受](https://pic4.zhimg.com/50/v2-8c3d393b5728d377f0ee924c6ae4e703_hd.gif)
 
 2 . 多标签资源管理器:Clover 
 
