@@ -9,7 +9,7 @@ title: "打赏喜欢：donate"
  <img src="images/donate/DonateButton.png" width="83.63" height="23.63" ><br/>
 
 <p class="donate">
-   You can also donate me for a coffee, and I'll do better. Thanks.
+   You can also donate me for a coffee, and I'll do better. Or you can share this site in your Wechat or QQ Friends circle and let more people find these resources , which is also a support for me , thank you .
 </p> 
 
 ----------------------------------------------------------

@@ -16,5 +16,4 @@ AYEAR ago this week Donald Trump was elected president. Many people predicted th
 [Download.Audio/pdf/epub/mobi](https://pan.baidu.com/share/init?surl=jH4sZNS) `uqf4` <br/>
 
 
-If you support my work , You can also <a href="https://camplus.github.io/donate.html" title="谢谢支持"><img src="/images/donate/DonateButton.png" width="50.63" height="13.63" ></a> me for a coffee , and I'll do better . Thanks .
- 
+If you support my work , You can also <a href="https://camplus.github.io/donate.html" title="谢谢支持"><img src="/images/donate/DonateButton.png" width="50.63" height="13.63" ></a> me for a coffee , and I'll do better . Or you can share this site in your Wechat or QQ Friends circle and let more people find these resources , which is also a support for me , thank you .
