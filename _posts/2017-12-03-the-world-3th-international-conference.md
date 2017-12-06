@@ -2,7 +2,7 @@
 layout: post
 title: English video 20171203
 category: 视频
-tags: [英语资料，视频]
+tags: [英语资料,视频]
 ---
 
 An image involving a little artificial intelligence , picture recommend .
