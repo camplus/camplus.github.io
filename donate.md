@@ -33,7 +33,7 @@ title: "打赏喜欢：donate"
  <a href="https://www.paypal.com/c2/webapps/mpp/home?locale.x=zh_c2" title="谢谢支持"><img src="images/donate/pp-logo-200px.png" width="160" height="40"></a><br/>
 
 <p class="donate">
-   Donate via PayPal (one time)
+   Donate via PayPal
 </p> 
 
 <br/>

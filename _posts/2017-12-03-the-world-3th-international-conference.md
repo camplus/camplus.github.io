@@ -7,7 +7,7 @@ tags: [英语资料，视频]
 
 An image involving a little artificial intelligence , picture recommend .
 
-<img src="/images/movies-and-tv/mobile-phone-1875813_12801.jpg" width="622" height="160">
+<img src="/images/top-head-piature/the-world-3th-international-conference.jpg" width="722" height="160">
 
 A short video for learning English .
 
