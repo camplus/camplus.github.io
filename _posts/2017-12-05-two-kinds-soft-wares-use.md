@@ -19,7 +19,7 @@ Windows的搜索功能几乎每天都会被用到，但其搜索速度实在是�
 
 [Download.softwares](https://pan.baidu.com/s/1slnz8F7) `dpj5` <br/>
 
-两款软件可在官网下载:Clover:[http://cn.ejie.me](http://cn.ejie.me);Everything：[http://www.voidtools.com](http://www.voidtools.com)
+两款软件可在官网下载:<br/>Clover:[http://cn.ejie.me](http://cn.ejie.me)<br/>Everything：[http://www.voidtools.com](http://www.voidtools.com)
 
 If you support my work , You can also <a href="https://camplus.github.io/donate.html" title="谢谢支持">`donate`</a> me for a coffee , and I'll do better . Or you can share this site in your Wechat or QQ Friends circle and let more people find these resources , which is also a support for me , thank you .
 
